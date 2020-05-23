@@ -1,0 +1,18 @@
+version: '3'
+services:
+  reverseproxy:
+    build:
+      context: ./
+    image: areebsiddiqui/reverseproxy
+  backend-user:
+    build:
+      context: ../../udacity-c3-restapi-user
+    image: areebsiddiqui/api-user
+  backend-feed:
+    build:
+      context: ../../udacity-c3-restapi-feed
+    image: areebsiddiqui/api-feed
+  front-end:
+    build:
+      context: ../../udacity-c3-frontend
+    image: areebsiddiqui/frontend

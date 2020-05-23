@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+data:
+  AWS_BUCKET: p3-areeb-bucket
+  AWS_REGION: us-east-2
+  AWS_PROFILE: default
+  JWT_SECRET: hello
+  POSTGRESS_HOST: udagrammasdev.cddbmcdivsbn.us-east-2.rds.amazonaws.com
+  POSTGRESS_DB: udagrammasdev
+  URL: http://localhost:8100  
+metadata:
+  name: env-config
