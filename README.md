@@ -11,7 +11,7 @@ use `npm run` to run backend service and `ionic serve` to run front-end service.
 RDS | S3 | EKS | AWS CLI | IAM Roles
 
 # Tech stack
-Kubernetes | Docker | NodeJS | Ionic
+Kubernetes | Docker | Travis CI | NodeJS | Ionic | 
 
 # Project Link
 https://github.com/AreebSiddiqui/Aws-udagram-p3
