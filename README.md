@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.org/AreebSiddiqui/Aws-udagram-p3.svg?branch=master)](https://travis-ci.org/AreebSiddiqui/Aws-udagram-p3)
 
-# Udagram 
+
+# Udagram [![Build Status](https://travis-ci.org/AreebSiddiqui/Aws-udagram-p3.svg?branch=master)](https://travis-ci.org/AreebSiddiqui/Aws-udagram-p3)
 # Details
 This project is from Udacity cloud developer nano degree.
 To run this project you must have node installed.
